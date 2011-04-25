@@ -1,3 +1,9 @@
+nodejs-geoip-wadey (0.1.0-0sg12) UNRELEASED; urgency=low
+
+  * UNRELEASED
+
+ -- SimpleGeo Nerds <nerds@simplegeo.com>  Mon, 25 Apr 2011 15:59:54 +0000
+
 nodejs-geoip-wadey (0.1.0-0sg11) unstable; urgency=low
 
   * Change package name

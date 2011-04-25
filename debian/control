@@ -8,6 +8,7 @@ Standards-Version: 3.9.1
 
 Package: nodejs-geoip-wadey
 Depends: nodejs (>= 0.2.3), nodejs-mmap (>= 0.0.1), ${misc:Depends}
+Conflicts: nodejs-geoip
 Architecture: all
 Description: node-geoip
  http://github.com/wadey/node-geoip

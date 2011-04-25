@@ -1,3 +1,9 @@
+nodejs-geoip-wadey (0.1.0-0sg11) unstable; urgency=low
+
+  * Change package name
+
+ -- Wade Simmons <wade@simplegeo.com>  Mon, 25 Apr 2011 08:59:23 -0700
+
 nodejs-geoip (0.1.0-0sg9) UNRELEASED; urgency=low
 
   * UNRELEASED

@@ -1,0 +1,13 @@
+Source: nodejs-zlib
+Section: misc
+Priority: extra
+Uploaders: Derek Smith <derek@simplegeo.com>
+Maintainer: SimpleGeo Nerds <nerds@simplegeo.com>
+build-Depends: cdbs, debhelper (>= 7), binutils, nodejs-dev (>= 0.2.0)
+Standards-Version: 3.9.1
+
+Package: nodejs-zlib
+Depends: nodejs (>= 0.2.0), ${shlibs:Depends}, ${misc:Depends}
+Architecture: any
+Description: node-zlib
+ http://github.com/simplegeo/node-zlib

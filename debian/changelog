@@ -1,3 +1,12 @@
+nodejs-zlib (0.1.4-0sg7) UNRELEASED; urgency=low
+
+  [ dsmith ]
+  * must configure before we build
+
+  [ SimpleGeo Nerds ]
+
+ -- SimpleGeo Nerds <nerds@simplegeo.com>  Thu, 19 May 2011 23:11:34 +0000
+
 nodejs-zlib (0.1.4-0sg0) unstable; urgency=low
 
   * Debianized
